@@ -12,13 +12,19 @@ O projeto câmara de refrigeração é espécie de miniatura de câmaras de refr
 Arduino
 
 #Material
-
+#
 →Para execução do projeto em principio serão necessários; 
+#
 →Sensor de temperatura; 
-→Display LDC de 16x2 seguimentos; 
-→Leitor RFID; 
-→Motor de passo; 
-→Sistema de refrigeração*. 
+#
+→Display LDC de 16x2 seguimentos;
+#
+→Leitor RFID;
+#
+→Motor de passo;
+#
+→Sistema de refrigeração*.
+#
 
 *O sistema de refrigeração inicialmente não contará com controle de temperatura uma vez que o mesmo será composto por uma pastilha Peltier, que possui complexo funcionamento, e duas ventoinhas. 
 
